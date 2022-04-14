@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(75, 79, 78, 0.062);
+}
+h1, h2{
+    text-align: center;
+}
+.contenu{
+    width:500px;
+    margin: 0 auto;
+}
+.liste-details{
+    background-color: aqua;
+    float: left;
+    list-style-type: none;
+    padding-top: 10px;
+    margin: 20px;
+
+}
+.details{
+background-color: antiquewhite;
+height: 150px;
+}
+.cv-section{
+/*background-color: aquamarine;*/
+padding-bottom: 20px;
+}
+div.details img{
+  height: 150px;  
+  float: left;
+  border-radius: 50%; 
+}
+p{
+    margin: 0px;
+}
+hr{
+    border-color: blue;
+}
